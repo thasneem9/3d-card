@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/3d-card/static/css/main.71804d4f.css",
-    "main.js": "/3d-card/static/js/main.a6486b77.js",
+    "main.css": "/3d-card/static/css/main.9dff8e66.css",
+    "main.js": "/3d-card/static/js/main.37464bd3.js",
     "static/media/nike.png": "/3d-card/static/media/nike.2639247c1b1f7b834493.png",
     "static/media/logo.svg": "/3d-card/static/media/logo.a452a8dd5c493ce6e62e2c80e3598443.svg",
     "index.html": "/3d-card/index.html",
-    "main.71804d4f.css.map": "/3d-card/static/css/main.71804d4f.css.map",
-    "main.a6486b77.js.map": "/3d-card/static/js/main.a6486b77.js.map"
+    "main.9dff8e66.css.map": "/3d-card/static/css/main.9dff8e66.css.map",
+    "main.37464bd3.js.map": "/3d-card/static/js/main.37464bd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.71804d4f.css",
-    "static/js/main.a6486b77.js"
+    "static/css/main.9dff8e66.css",
+    "static/js/main.37464bd3.js"
   ]
 }
