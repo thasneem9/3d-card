@@ -1,4 +1,5 @@
 {
+  "homepage": "https://<your-username>.github.io/<your-repository-name>",
   "name": "3d-card",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +39,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.12",
     "framer-motion": "^7.6.1",
+    "gh-pages": "^6.2.0",
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.1"
   }
